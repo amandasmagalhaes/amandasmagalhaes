@@ -1,8 +1,6 @@
 ### Hi there, I'm Amanda 👋
 
-<!--
-**amandasmagalhaes/amandasmagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 ## Who am I?
 
@@ -22,11 +20,11 @@
 * 📑 Exploratory Analysis
 
 
-## Find me around the world :earth_americas:
+## Find me around the world
 
 *  [Linkedin](https://www.linkedin.com/in/amandasilvamagalhaes/)
 *  [Lattes](http://lattes.cnpq.br/9708214484612361)
 
 
-## **My projects**
+## My projects
 
