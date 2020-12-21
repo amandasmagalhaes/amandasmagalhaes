@@ -1,6 +1,6 @@
 # **Hi there, I'm Amanda** 👋
 
-###
+
 
 ## Who am I?
 
@@ -22,8 +22,8 @@
 
 ## Find me around the world
 
-*  [Linkedin](https://www.linkedin.com/in/amandasilvamagalhaes/)
-*  [Lattes](http://lattes.cnpq.br/9708214484612361)
+* [Linkedin](https://www.linkedin.com/in/amandasilvamagalhaes/)
+* [Lattes](http://lattes.cnpq.br/9708214484612361)
 
 
 ## My projects
