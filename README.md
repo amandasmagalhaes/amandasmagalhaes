@@ -16,6 +16,7 @@
 * 📈 R
 * 💻 STATA
 * 🧮 Power BI
+* 📈 Tableau
 * 📊 Data Visualization
 * 📑 Exploratory Analysis
 
