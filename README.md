@@ -5,7 +5,7 @@
 ## Who am I?
 
 * ☢️ Radiology Technologist - UFMG
-* 📚 Master's student in Public Health - UFMG
+* 📚 Master in Epidemiology - UFMG
 * 🔎 Urban Health Researcher - OSUBH
 * 👩🏽‍💻 Data Scientist Student
 
