@@ -13,12 +13,10 @@
 ## Skills
 
 * 🐍 Python
-* 📈 R
 * 💻 STATA
-* 🧮 Power BI
-* 📉 Tableau
-* 📊 Data Visualization
+* 📈 R
 * 📑 Exploratory Analysis
+* 📊 Data Visualization
 
 
 ## Find me around the world
