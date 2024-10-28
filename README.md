@@ -7,7 +7,6 @@
 * ☢️ Radiology Technologist - UFMG
 * 📚 Master in Epidemiology - UFMG
 * 🔎 Urban Health Researcher - OSUBH
-* 👩🏽‍💻 Data Scientist Student
 
 
 ## Skills
@@ -23,7 +22,3 @@
 
 * [Linkedin](https://www.linkedin.com/in/amandasilvamagalhaes/)
 * [Lattes](http://lattes.cnpq.br/9708214484612361)
-
-
-## My projects
-
