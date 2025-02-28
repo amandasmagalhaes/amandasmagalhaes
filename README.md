@@ -4,10 +4,10 @@
 
 ## Who am I?
 
-* ☢️ Radiology Technologist - UFMG
-* 📚 Master in Epidemiology - UFMG
-* 🎓 PhD in Public Health - UFMG
 * 🔎 Urban Health Researcher - OSUBH
+* 🎓 PhD in Public Health - UFMG
+* 📚 Master in Epidemiology - UFMG
+* ☢️ Radiology Technologist - UFMG
 
 
 ## Tools
