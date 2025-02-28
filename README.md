@@ -6,19 +6,18 @@
 
 * ☢️ Radiology Technologist - UFMG
 * 📚 Master in Epidemiology - UFMG
+* 🎓 PhD in Public Health - UFMG
 * 🔎 Urban Health Researcher - OSUBH
 
 
-## Skills
+## Tools
 
-* 🐍 Python
 * 💻 STATA
+* 🐍 Python
 * 📈 R
-* 📑 Exploratory Analysis
-* 📊 Data Visualization
 
 
 ## Find me around the world
 
-* [Linkedin](https://www.linkedin.com/in/amandasilvamagalhaes/)
 * [Lattes](http://lattes.cnpq.br/9708214484612361)
+* [Linkedin](https://www.linkedin.com/in/amandasilvamagalhaes/)
